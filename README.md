@@ -3,7 +3,7 @@
 We present FALSR A,B,C models. The metrics and results can be generated with,
 
 ```shell
-$ python calculate.py --pb_path ./pretrained_model/FALSR-A.pb --save_path ./result/
+$ python3 calculate.py --pb_path ./pretrained_model/FALSR-A.pb --save_path ./result/
 ```
 
 ## Comparison with state-of-the-art methods
