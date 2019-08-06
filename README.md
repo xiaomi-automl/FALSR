@@ -35,9 +35,9 @@ $ python3 calculate.py --pb_path ./pretrained_model/FALSR-A.pb --save_path ./res
 
 Your citations are welcomed!
 
-  @article{chu2019fast,
-    title={Fast, accurate and lightweight super-resolution with neural architecture search},
-    author={Chu, Xiangxiang and Zhang, Bo and Ma, Hailong and Xu, Ruijun and Li, Jixiang and Li, Qingyuan},
-    journal={arXiv preprint arXiv:1901.07261},
-    year={2019}
-  }
+    @article{chu2019fast,
+      title={Fast, accurate and lightweight super-resolution with neural architecture search},
+      author={Chu, Xiangxiang and Zhang, Bo and Ma, Hailong and Xu, Ruijun and Li, Jixiang and Li, Qingyuan},
+      journal={arXiv preprint arXiv:1901.07261},
+      year={2019}
+    }
