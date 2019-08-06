@@ -29,3 +29,15 @@ $ python3 calculate.py --pb_path ./pretrained_model/FALSR-A.pb --save_path ./res
 | FALSR-A (ours) |234.7G | 1,021K | 37.82/0.9595 | 33.55/0.9168	| 32.12/0.8987 | 31.93/0.9256|
 | FALSR-B (ours) | 74.7G | 326k | 37.61/0.9585	| 33.29/0.9143 | 31.97/0.8967 	| 31.28/0.9191 |
 | FALSR-C (ours) | 93.7G |408k | 37.66/0.9586	| 33.26/0.9140 | 31.96/0.8965	| 31.24/0.9187 |
+
+
+## Citation
+
+Your citations are welcomed!
+
+  @article{chu2019fast,
+    title={Fast, accurate and lightweight super-resolution with neural architecture search},
+    author={Chu, Xiangxiang and Zhang, Bo and Ma, Hailong and Xu, Ruijun and Li, Jixiang and Li, Qingyuan},
+    journal={arXiv preprint arXiv:1901.07261},
+    year={2019}
+  }
