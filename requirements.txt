@@ -1,6 +1,6 @@
 opencv-python==3.4.3.18
 scipy==1.1.0
-tensorflow==1.8.0
+tensorflow==2.5.0
 tensorflow-gpu==1.8.0
 imageio==2.4.1
 numpy==1.15.4
