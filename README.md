@@ -1,4 +1,4 @@
-# Fast, Accurate and Lightweight Super-Resolution models
+# Fast, Accurate and Lightweight Super-Resolution models [![arXiv](http://img.shields.io/badge/cs.CV-arXiv%3A1901.07261-B31B1B.svg)](https://arxiv.org/abs/1901.07261)
 
 We present FALSR A,B,C models. The metrics and results can be generated with,
 
@@ -35,9 +35,9 @@ $ python3 calculate.py --pb_path ./pretrained_model/FALSR-A.pb --save_path ./res
 
 Your citations are welcomed!
 
-    @article{chu2019fast,
+    @inproceedings{chu2019fast,
       title={Fast, accurate and lightweight super-resolution with neural architecture search},
-      author={Chu, Xiangxiang and Zhang, Bo and Ma, Hailong and Xu, Ruijun and Li, Jixiang and Li, Qingyuan},
-      journal={arXiv preprint arXiv:1901.07261},
-      year={2019}
+      author={Chu, Xiangxiang and Zhang, Bo and Ma, Hailong and Xu, Ruijun and Li, Qingyuan},
+      booktitle={International Conference on Pattern Recognition, ICPR},
+      year={2020}
     }
